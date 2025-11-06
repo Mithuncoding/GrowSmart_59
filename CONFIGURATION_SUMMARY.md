@@ -15,6 +15,7 @@
 - **Text Model**: gemini-2.5-flash ✅ (Already configured correctly)
 - **Vision Model**: gemini-2.5-flash ✅ (Already configured correctly)
 - **Configuration File**: `constants.ts` (lines 148-150)
+- **file**
 
 ## Dependencies Installed ✅
 - All npm packages installed successfully
