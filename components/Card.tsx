@@ -6,7 +6,7 @@ interface CardProps {
   className?: string;
   onClick?: () => void;
   noPadding?: boolean;
-}
+}//hi
 
 const Card: React.FC<CardProps> = ({ title, children, className = '', onClick, noPadding = false }) => {
   return (
