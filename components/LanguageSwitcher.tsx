@@ -9,7 +9,7 @@ const LanguageSwitcher: React.FC = () => {
   const languages: { code: LanguageCode; name: string, localName: string }[] = [
     { code: 'en', name: 'English', localName: 'English' },
     { code: 'kn', name: 'Kannada', localName: 'ಕನ್ನಡ' },
-  ];
+  ];//hi
 
   const handleChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
     setLanguage(event.target.value as LanguageCode);
