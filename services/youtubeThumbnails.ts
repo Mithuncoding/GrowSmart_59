@@ -1,4 +1,4 @@
-export async function fetchYouTubeThumbnails(query: string, maxResults = 2) {
+export async function fetchYouTubeThumbnails(query: string, maxResults = 2) {//hi
   const apiKey = import.meta.env.VITE_YOUTUBE_API_KEY;
   if (!apiKey) return [];
   const url = `https://www.googleapis.com/youtube/v3/search?part=snippet&type=video&q=${encodeURIComponent(query)}&maxResults=${maxResults}&key=${apiKey}`;
