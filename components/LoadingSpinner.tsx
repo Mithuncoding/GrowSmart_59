@@ -11,7 +11,7 @@ const LoadingSpinner: React.FC<LoadingSpinnerProps> = ({ size = 'md', text }) =>
     sm: 'w-6 h-6 border-2',
     md: 'w-10 h-10 border-4',
     lg: 'w-16 h-16 border-4',
-  };
+  };//hi
 
   return (
     <div className="flex flex-col items-center justify-center py-4">
