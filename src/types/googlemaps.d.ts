@@ -1,7 +1,7 @@
 // src/types/googlemaps.d.ts
 
 // Extend the global google.maps namespace to add missing types
-declare namespace google {
+declare namespace google {//hi
   namespace maps {
     namespace visualization {
       // Declare WeatherLayer if it's missing
