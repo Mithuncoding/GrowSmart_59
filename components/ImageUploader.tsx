@@ -7,7 +7,7 @@ interface ImageUploaderProps {
   idSuffix?: string; // To make input id unique if multiple uploaders are on one page
   enableCamera?: boolean;
   enablePaste?: boolean;
-}
+}//hi
 
 const ImageUploader: React.FC<ImageUploaderProps> = ({ onImageUpload, idSuffix = "", enableCamera = false, enablePaste = false }) => {
   const [previewUrl, setPreviewUrl] = useState<string | null>(null);
