@@ -1,7 +1,7 @@
 // Google Translate utility functions
 // This file provides translation services using the backend API
 
-const BACKEND_URL = '/api/translate';
+const BACKEND_URL = '/api/translate';//hi
 
 // Cache for translations to avoid repeated API calls
 const translationCache = new Map<string, string>();
