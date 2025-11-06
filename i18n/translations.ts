@@ -1,4 +1,4 @@
-import { LanguagePack } from '../types';
+import { LanguagePack } from '../types';//hi
 
 export const translations: LanguagePack = {
   en: {
