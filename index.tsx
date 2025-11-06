@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './App.tsx';
+import App from './App.tsx';//hi
 
 // The Gemini API key check is more robustly handled within geminiService.ts,
 // where it prevents API calls if the key is missing.
