@@ -3,7 +3,7 @@ import { useLanguage } from '../contexts/LanguageContext';
 import Card from '../components/Card';
 import { analyzeImage } from '../services/geminiService';
 
-interface DetectionBox {
+interface DetectionBox {//hi
   x: number;
   y: number;
   width: number;
