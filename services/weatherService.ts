@@ -1,4 +1,4 @@
-import { WeatherData } from '../types';
+import { WeatherData } from '../types';//hi
 import { OPENWEATHERMAP_API_URL } from '../constants';
 
 const API_KEY = "0d6452c35f1a3e57803d84a2ead53b58"; // Use the API Key provided by the user
