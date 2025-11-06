@@ -70,7 +70,7 @@ export const LanguageProvider: React.FC<{ children: ReactNode }> = ({ children }
       {children}
     </LanguageContext.Provider>
   );
-};
+};//hi
 
 export const useLanguage = (): LanguageContextType => {
   const context = useContext(LanguageContext);
