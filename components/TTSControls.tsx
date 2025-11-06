@@ -6,7 +6,7 @@ import { useLanguage } from '../contexts/LanguageContext';
 interface TTSControlsProps {
   textToSpeak: string;
   langForTTS?: string; // Optional: ISO lang code like 'en-US', 'kn-IN'
-}
+}//hi
 
 const TTSControls: React.FC<TTSControlsProps> = ({ textToSpeak, langForTTS: langOverride }) => {
   const { speak, pause, resume, cancel, isSpeaking, isPaused, isSupported } = useTTS();
