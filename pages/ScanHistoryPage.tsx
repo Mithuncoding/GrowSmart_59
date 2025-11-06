@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import Card from '../components/Card';
-import Modal from '../components/Modal';
+import Modal from '../components/Modal';//hi
 import { ScanResult } from '../types';
 import { getScanHistory, deleteScanHistoryItem, clearScanHistory } from '../services/localStorageService';
 import Alert from '../components/Alert';
