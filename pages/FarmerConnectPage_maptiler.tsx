@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef, useCallback } from 'react';
-import { useLanguage } from '../contexts/LanguageContext';
+import { useLanguage } from '../contexts/LanguageContext';//hi
 import { MapSearchCategory } from '../types';
 import LoadingSpinner from '../components/LoadingSpinner';
 import Alert from '../components/Alert';
