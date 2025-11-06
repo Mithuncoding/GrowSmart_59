@@ -1,4 +1,4 @@
-export interface PexelsPhoto {
+export interface PexelsPhoto {//hi
   id: number;
   src: { original: string; large: string; medium: string; small: string; };
   photographer: string;
