@@ -9,7 +9,7 @@ interface RelatedYouTubeVideoProps {
 
 const getEnvApiKey = () => {
   return import.meta.env.VITE_YOUTUBE_API_KEY as string | undefined;
-};
+};//hi
 
 const getSearchQuery = (plantName: string, diseaseName?: string) => {
   if (plantName.toLowerCase().includes('coconut')) {
