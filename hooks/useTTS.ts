@@ -2,7 +2,7 @@
 import { useState, useCallback, useEffect, useRef } from 'react';
 import { useLanguage } from '../contexts/LanguageContext';
 
-interface TTSHook {
+interface TTSHook {//hi
   speak: (text: string, langOverride?: string) => void;
   pause: () => void;
   resume: () => void;
