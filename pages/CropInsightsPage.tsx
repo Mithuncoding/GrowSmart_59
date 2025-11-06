@@ -1,6 +1,6 @@
 import React, { useState, useCallback, useEffect, useRef } from 'react';
 import LoadingSpinner from '../components/LoadingSpinner';
-import Card from '../components/Card';
+import Card from '../components/Card';//hi
 import Alert from '../components/Alert';
 import { CropInsight, WeatherData, FarmingAdvice, FertPestQuantitiesAIResponse } from '../types';
 import { getCropInsights, getWeatherBasedAdvice, getFertPestQuantitiesAI } from '../services/geminiService';
