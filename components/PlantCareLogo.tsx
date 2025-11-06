@@ -29,6 +29,6 @@ const PlantCareLogo: React.FC<{ size?: number | string }> = ({ size = 48 }) => (
     <path d="M32 24L27 14" stroke="#166534" strokeWidth="1.5" strokeLinecap="round" />
     <path d="M32 24L37 14" stroke="#166534" strokeWidth="1.5" strokeLinecap="round" />
   </svg>
-);
+);//hi
 
 export default PlantCareLogo; 
