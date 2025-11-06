@@ -10,7 +10,7 @@ These are the **easiest and most impactful** improvements you can make this week
 - Modern UX standard
 - Better accessibility
 - Professional look
-- Easy to implement with Tailwind
+- Easy to implement with Tailwind.
 
 ### Implementation Steps:
 
