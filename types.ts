@@ -1,4 +1,4 @@
-export interface PlantDiagnosis {
+export interface PlantDiagnosis {//hi
   plantName?: string; // Most likely plant species or common name
   plantEmoji?: string; // Emoji for the plant
   plantConfidencePercent?: number; // Confidence in plant identification (0-100)
