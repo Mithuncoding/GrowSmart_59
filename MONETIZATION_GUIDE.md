@@ -13,7 +13,7 @@ This guide outlines **realistic revenue strategies** for PlantCare AI, from zero
 - ✅ Multi-language support (11+ languages)
 - ✅ Complete feature set (scan, encyclopedia, community, etc.)
 - ✅ Target market: 100M+ Indian farmers
-- ✅ Free to use (good for adoption)
+- ✅ Free to use (good for adoption).
 
 **Opportunities**:
 - ❌ No revenue model yet
